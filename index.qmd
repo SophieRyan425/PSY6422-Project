@@ -1,0 +1,15 @@
+---
+title: "PSY6422-Project"
+format: html
+editor: visual
+---
+
+# Death rate of Alzeimers disease and other Dementias in Europe from 2000-2021 
+
+Sophie Ryan
+
+03/12/25
+
+## Data origins:
+
+# 
